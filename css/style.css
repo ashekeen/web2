@@ -1,0 +1,145 @@
+		body{ font-family: 'Roboto', sans-serif; margin: 0px;
+
+		}
+		.portfolio{
+			width: 1000px;
+			margin: 120px auto;
+			padding: 60px 50px 22px ;
+			border-radius: 10px;
+			box-shadow: 0px 0px 20px 0px #00000038;
+			text-align: center;
+		}
+
+		iframe{
+			margin: 0 auto;
+			display: block;
+			border-radius: 15px;
+			box-shadow: 0px 0px 20px 0px #00000038;
+
+		}
+
+		h1{
+			margin: 0px;
+			font-size: 35px;
+			text-transform: uppercase;
+			letter-spacing: 13px;
+			font-weight: 600;
+			color: #038DA6;
+			
+		}
+		p{
+			font-size: 22px
+			font-weight 300;
+			line-height: 1.4;
+		}
+
+		.color1{
+			color: red;
+		}
+		.color2{
+			color: green;
+		}
+		mark{
+			background: #038DA6;
+			color: #fff;
+			padding: 5px 20px;
+			display: inline-block;
+			border-radius: 18px;
+
+		}
+		h2{
+			margin: 0;
+			color: white;
+			font-size: 40px;
+
+		}
+		.section_01{
+			background-color: seagreen;
+			text-align: center;
+			padding: 300px 0;
+			background-image: url(../image/bg.jpg);
+			background-position: bottom;
+			background-attachment: fixed;
+
+		}
+		.section_02{
+			background-color: seagreen;
+			text-align: center;
+			padding: 300px 0;
+			background-image: url(../image/bg2.jpg);
+			background-position: left;
+			background-attachment: fixed;
+			
+		}
+		.section_03{
+			background-color: seagreen;
+			text-align: center;
+			padding: 300px 0;
+			background-image: url(../image/bg3.jpg);
+			background-position: left;
+			background-attachment: fixed;
+			
+		}
+		.section_04{
+			background-color: seagreen;
+			text-align: center;
+			padding: 300px 0;
+			background-image: url(../image/bg4.jpg);
+			background-position: left;
+			background-attachment: fixed;
+			
+		}
+		.section_05{
+			background-color: seagreen;
+			text-align: center;
+			padding: 300px 0;
+			background-image: url(../image/bg5.jpg);
+			background-position: left;
+			background-attachment: fixed;
+			
+		}
+		.section_06{
+			background-color: seagreen;
+			text-align: center;
+			padding: 300px 0;
+			background-image: url(../image/bg6.jpg);
+			background-position: left;
+			background-attachment: fixed;
+			
+		}
+		.section_07{
+			background-color: seagreen;
+			text-align: center;
+			padding: 300px 0;
+			background-image: url(../image/bg7.jpg);
+			background-position: left;
+			background-attachment: fixed;
+			
+		}
+		.section_08{
+			background-color: seagreen;
+			text-align: center;
+			padding: 300px 0;
+			background-image: url(../image/bg8.jpg);
+			background-position: left;
+			background-attachment: fixed;
+			
+		}
+		.section_09{
+			background-color: seagreen;
+			text-align: center;
+			padding: 300px 0;
+			background-image: url(../image/bg9.jpg);
+			background-position: left;
+			background-attachment: fixed;
+			
+		}
+		.section_10{
+			background-color: seagreen;
+			text-align: center;
+			padding: 300px 0;
+			background-image: url(../image/bg10.jpg);
+			background-position: left;
+			background-attachment: fixed;
+			
+		}
